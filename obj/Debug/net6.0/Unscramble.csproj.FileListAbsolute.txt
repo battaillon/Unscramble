@@ -1,0 +1,15 @@
+C:\Users\HP\Unscramble\bin\Debug\net6.0\Unscramble.exe
+C:\Users\HP\Unscramble\bin\Debug\net6.0\Unscramble.deps.json
+C:\Users\HP\Unscramble\bin\Debug\net6.0\Unscramble.runtimeconfig.json
+C:\Users\HP\Unscramble\bin\Debug\net6.0\Unscramble.dll
+C:\Users\HP\Unscramble\bin\Debug\net6.0\Unscramble.pdb
+C:\Users\HP\Unscramble\obj\Debug\net6.0\Unscramble.csproj.AssemblyReference.cache
+C:\Users\HP\Unscramble\obj\Debug\net6.0\Unscramble.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Unscramble\obj\Debug\net6.0\Unscramble.AssemblyInfoInputs.cache
+C:\Users\HP\Unscramble\obj\Debug\net6.0\Unscramble.AssemblyInfo.cs
+C:\Users\HP\Unscramble\obj\Debug\net6.0\Unscramble.csproj.CoreCompileInputs.cache
+C:\Users\HP\Unscramble\obj\Debug\net6.0\Unscramble.dll
+C:\Users\HP\Unscramble\obj\Debug\net6.0\refint\Unscramble.dll
+C:\Users\HP\Unscramble\obj\Debug\net6.0\Unscramble.pdb
+C:\Users\HP\Unscramble\obj\Debug\net6.0\Unscramble.genruntimeconfig.cache
+C:\Users\HP\Unscramble\obj\Debug\net6.0\ref\Unscramble.dll
